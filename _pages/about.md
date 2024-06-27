@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS. Prof at ENIAD. Member of the LaRSA lab at <a href="https://ensao.ump.ma">ENSA Oujda</a>
+subtitle: CS. Prof at <a href="https://eniad.ump.ma">ENIAD</a>. Member of the LaRSA lab at <a href="https://ensao.ump.ma">ENSA Oujda</a>
 
 profile:
   align: right
